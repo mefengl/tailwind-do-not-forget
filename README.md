@@ -13,3 +13,7 @@ weight
 400 : font-normal
 
 500 : font-medium
+
+## animation
+
+skeleton loader : animate-pulse
