@@ -1,5 +1,9 @@
 # tailwind-do-not-forget
 
+## color
+
+neutral
+
 ## font
 
 size
