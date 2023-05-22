@@ -4,6 +4,10 @@
 
 neutral
 
+## justify
+
+both side : justify-between
+
 ## font
 
 size
